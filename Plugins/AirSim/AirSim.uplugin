@@ -14,7 +14,7 @@
     "CanContainContent": true,
     "IsBetaVersion" : true,
     "Installed": true,
-    "EngineVersion": "4.15.0",
+    "EngineVersion": "4.15.3",
     "Modules" :
     [
         {
